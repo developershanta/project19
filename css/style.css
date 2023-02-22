@@ -1,0 +1,69 @@
+.box{
+	height: 100px;
+	width: 100px;
+	background: red;
+}
+.box1{
+	height: 10em;
+	width: 10em;
+	background: green;
+}
+.box2{
+	height: 10rem;
+	width: 10rem;
+	background: blue;
+}
+.box3{
+	height: 50%;
+	width: 80%;
+	background: black;
+}
+.asena{
+	font-size: 90px;
+}
+
+
+
+
+
+.head{
+	height: 100px;
+	width: 100px;
+	
+}
+.blue{
+	background: blue;
+	margin: 44px 204px;
+	border: 22px solid red;
+	padding: 53px 53px 62px;
+
+}
+.green{
+	background: green;
+	margin-left: 104px;
+    margin-top: 43px;
+    padding-left: 57px;
+    padding-top: 36px;
+    padding-right: 60px;
+    padding-bottom: 36px;
+    border-left: 33px solid red;
+    border-right: 33px solid yellow;
+}
+
+
+
+
+
+.hw{
+	display: inline-block;
+}
+.threeone{
+	text-decoration: underline;
+}
+
+h5{
+	text-decoration: underline;
+}
+.1{
+	font-size: 55px;
+}

@@ -1,0 +1,40 @@
+.header{
+	height: 100px;
+	background: red;
+}
+.container{
+	border: 6px solid gray;
+	overflow: hidden;
+
+}
+.blog{
+	width: 40%;
+	height: 100px;
+	background: blue;
+	float: left;
+}
+.contant{
+	width: 60%;
+	height: 100px;
+	background: yellow;
+	float: right;
+}
+
+.container2{}
+.box{
+	height: 100px;
+	width: 25%;
+	float: left;
+}
+.red{
+	background: red;
+}
+.green{
+	background: green;
+}
+.navi{
+	background: blue;
+}
+.yellow{
+	background: yellow;
+}
